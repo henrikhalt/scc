@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <!-- == PACKAGE SPECIFIC SECTION == -->
+    <id>scap-compliance-checker</id>
+    <version>5.4</version>
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <title>SCAP Compliance Checker</title>
+    <authors>Naval Information Warfare Center (NIWC) Atlantic</authors>
+    <projectUrl>https://www.niwcatlantic.navy.mil/scap/</projectUrl>
+    <!--<licenseUrl>IN NO EVENT SHALL THE UNITED STATES NAVY (OR GOVERNMENT) OR ANY EMPLOYEES</licenseUrl> -->
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <iconUrl>https://www.niwcatlantic.navy.mil/wp-content/uploads/2021/03/scc-large-with-text-227x300.png</iconUrl>
+    <tags>SCC SCAP SECURITY COMPLIANCE CHECKER STIG</tags>
+    <summary>SCAP Compliance Checker is a SCAP 1.3 compliant security scanner</summary>
+    <description>SCAP Compliance Checker is a SCAP 1.3 compliant security scanner</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
