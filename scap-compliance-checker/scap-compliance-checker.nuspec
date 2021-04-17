@@ -8,7 +8,7 @@
     <title>SCAP Compliance Checker</title>
     <authors>Naval Information Warfare Center (NIWC) Atlantic</authors>
     <projectUrl>https://www.niwcatlantic.navy.mil/scap/</projectUrl>
-    <!--<licenseUrl>IN NO EVENT SHALL THE UNITED STATES NAVY (OR GOVERNMENT) OR ANY EMPLOYEES</licenseUrl> -->
+    <licenseUrl>https://github.com/henrikhalt/scc/blob/master/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <iconUrl>https://www.niwcatlantic.navy.mil/wp-content/uploads/2021/03/scc-large-with-text-227x300.png</iconUrl>
     <tags>SCC SCAP SECURITY COMPLIANCE CHECKER STIG</tags>
