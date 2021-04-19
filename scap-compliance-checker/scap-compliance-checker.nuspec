@@ -7,10 +7,12 @@
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <title>SCAP Compliance Checker</title>
     <authors>Naval Information Warfare Center (NIWC) Atlantic</authors>
+    <owners>henrikhalt</owners>
     <projectUrl>https://www.niwcatlantic.navy.mil/scap/</projectUrl>
-    <licenseUrl>https://github.com/henrikhalt/scc/blob/master/LICENSE.txt</licenseUrl>
+    <docsUrl>https://www.niwcatlantic.navy.mil/scap/videos/</docsUrl>
+    <licenseUrl>https://raw.githubusercontent.com/henrikhalt/scc/master/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <iconUrl>https://www.niwcatlantic.navy.mil/wp-content/uploads/2021/03/scc-large-with-text-227x300.png</iconUrl>
+    <releaseNotes>https://dl.dod.cyber.mil/wp-content/uploads/stigs/txt/SCC_5.4_ReleaseNotes.txt</releaseNotes>
     <tags>SCC SCAP SECURITY COMPLIANCE CHECKER STIG</tags>
     <summary>SCAP Compliance Checker is a SCAP 1.3 compliant security scanner</summary>
     <description>SCAP Compliance Checker is a SCAP 1.3 compliant security scanner</description>
